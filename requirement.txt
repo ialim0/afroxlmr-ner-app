@@ -1,0 +1,5 @@
+# # Install packages
+pip install seqeval
+pip install jedi
+pip install simpletransformers
+pip install transformers
