@@ -1,4 +1,3 @@
-# # Install packages
-pip install flask
-pip install simpletransformers
-pip install transformers
+flask==3.0.0
+simpletransformers
+transformers
