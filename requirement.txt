@@ -1,5 +1,4 @@
 # # Install packages
-pip install seqeval
-pip install jedi
+pip install flask
 pip install simpletransformers
 pip install transformers
