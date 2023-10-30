@@ -1,2 +1,1 @@
 runtime: python39  # Choisissez la version de Python appropriée
-entrypoint: gunicorn -b :$PORT app:app  # Assurez-vous d'ajuster le nom du module et de l'application Flask
