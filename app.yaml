@@ -1,0 +1,7 @@
+File upload done.
+ERROR: (gcloud.app.deploy) INVALID_ARGUMENT: This deployment has too many files. New versions are limited to 10000 files for this app.
+- '@type': type.googleapis.com/google.rpc.BadRequest
+  fieldViolations:
+  - description: This deployment has too many files. New versions are limited to 10000
+      files for this app.
+    field: version.deployment.files[...]
