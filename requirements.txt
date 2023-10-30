@@ -14,7 +14,7 @@ streamlit==1.27.2
 tensorflow
 transformers==4.34.1
 uvicorn==0.23.2
-
+gunicorn==21.2.0
 
 
 
