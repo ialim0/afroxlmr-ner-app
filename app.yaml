@@ -1,5 +1,5 @@
 runtime: python39  # Choose the appropriate runtime version
-entrypoint: gunicorn -b :$PORT app:app  # Replace 'your_app' with your Flask app's main file
+entrypoint: gunicorn -b :8081 app:app  # Replace 'your_app' with your Flask app's main file
 
 env_variables:
   FLASK_ENV: production  # Set the Flask environment to 'production'
