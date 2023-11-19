@@ -2,7 +2,27 @@
 
 ## Introduction
 
-AfroXLMR NER is a Python application that allows you to extract named entities from text or PDF documents.
+AfroXLMR NER is a Python application that allows you to extract named entities from text or PDF documents. It use masakhane/afroxlmr-large-ner-masakhaner-1.0_2.0  Named Entity Recognition (NER) model for 21 African languages:
+Amharic (Amharic)
+Bambara (bam)
+Ghomala (bbj)
+Ewe (ewe)
+Fon (fon)
+Hausa (hau)
+Igbo (ibo)
+Kinyarwanda (kin)
+Luganda (lug)
+Dholuo (luo) -Mossi (mos)
+Chichewa (nya)
+Nigerian Pidgin
+chShona (sna)
+Kiswahili (swą)
+Setswana (tsn)
+Twi (twi)
+Wolof (wol)
+isiXhosa (xho)
+Yorùbá (yor)
+isiZulu (zul)
 
 ## Getting Started
 
