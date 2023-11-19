@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Chatbot_bylyai is a Python application that allows you to extract named entities from text or PDF documents. It can be run both on Google Cloud and locally on your machine.
+AfroXLMR NER is a Python application that allows you to extract named entities from text or PDF documents. It can be run both on Google Cloud and locally on your machine.
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ To run the application on your local machine, you'll need to install the require
 
 ## Usage
 
-Chatbot_bylyai allows you to input text or PDF documents and extract named entities from the content. You can use it for various natural language processing tasks that involve recognizing and categorizing entities such as names of people, organizations, locations, and more.
+AfroXLMR NERallows you to input text or PDF documents and extract named entities from the content. You can use it for various natural language processing tasks that involve recognizing and categorizing entities such as names of people, organizations, locations, and more.
 
 ## Contributing
 
@@ -47,6 +47,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or need assistance, feel free to contact the project maintainer [bylyai] at [bylyai.com].
