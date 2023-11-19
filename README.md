@@ -2,7 +2,7 @@
 
 ## Introduction
 
-AfroXLMR NER is a Python application that allows you to extract named entities from text or PDF documents. It can be run both on Google Cloud and locally on your machine.
+AfroXLMR NER is a Python application that allows you to extract named entities from text or PDF documents.
 
 ## Getting Started
 
