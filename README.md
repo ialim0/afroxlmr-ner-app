@@ -62,6 +62,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and ensure the code is well-documented.
 4. Submit a pull request for review.
+## Authors
+1. Alim IDRISSOU
+2. Alain Ogou
 
 
 
