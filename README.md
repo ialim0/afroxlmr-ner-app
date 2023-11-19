@@ -54,6 +54,10 @@ To run the application on your local machine, you'll need to install the require
 
 AfroXLMR NERallows you to input text or PDF documents and extract named entities from the content. You can use it for various natural language processing tasks that involve recognizing and categorizing entities such as names of people, organizations, locations, and more.
 
+## Authors
+1. Alim IDRISSOU
+2. Alain Ogou
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
@@ -62,9 +66,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and ensure the code is well-documented.
 4. Submit a pull request for review.
-## Authors
-1. Alim IDRISSOU
-2. Alain Ogou
+
 
 
 
